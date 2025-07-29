@@ -1,16 +1,41 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://i.imgur.com/NvGvA6K.png" alt="Rithink Varghese Banner" width="100%"/>
+</p>
 
-<!--
-**rkv6/rkv6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Rithink Varghese
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm an Electronics and Computer Science student passionate about building real-world tech solutions using AI, IoT, and software development. I love working on impactful projects — from smart devices to productivity tools and full-stack apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** C/C++, Python, JavaScript, HTML, CSS  
+- **Frameworks & Libraries:** Node.js, Express, React, Tailwind CSS, Arduino  
+- **Hardware & IoT:** ESP32, Raspberry Pi, IR sensors, Servo motors  
+- **Tools:** Git, GitHub, VS Code, Figma, Firebase, MongoDB, MySQL  
+- **AI/ML:** Python (scikit-learn, TensorFlow), OpenCV  
+
+---
+
+## 🔬 Projects I'm Working On
+  
+- 🌿 **ElaCare Precision Farming** – IoT-based soil monitoring system for cardamom farms in Kerala  
+- 💼 **OrderFlow App** – Order management system for small businesses  
+- 🔐 **Security Automation Systems** – Camera-based smart gate and alert system using ESP32-CAM   
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rithink-varghese&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rithink-varghese&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn](www.linkedin.com/in/rithin-k-varghese)    
+- 📧 Email: rithink604@gmail.com  
+
+Thanks for visiting! 🚀
