@@ -28,8 +28,8 @@ Welcome to my GitHub! I'm an Electronics and Computer Science student passionate
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rithink-varghese&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rithink-varghese&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rkv6&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkv6&layout=compact&theme=radical)
 
 ---
 
