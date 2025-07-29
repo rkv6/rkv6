@@ -9,8 +9,8 @@ Welcome to my GitHub! I'm an Electronics and Computer Science student passionate
 - **Languages:** C/C++, Python, JavaScript, HTML, CSS  
 - **Frameworks & Libraries:** Node.js, Express, React, Tailwind CSS, Arduino  
 - **Hardware & IoT:** ESP32, Raspberry Pi, IR sensors, Servo motors  
-- **Tools:** Git, GitHub, VS Code, Figma, Firebase, MongoDB, MySQL  
-- **AI/ML:** Python (scikit-learn, TensorFlow), OpenCV  
+- **Tools:** Git, GitHub, VS Code, Figma, MySQL  
+- **AI/ML:** Python ,jupyter
 
 ---
 
