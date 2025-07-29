@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/NvGvA6K.png" alt="Rithink Varghese Banner" width="100%"/>
-</p>
-
 # 👋 Hi, I'm Rithink Varghese
 
 Welcome to my GitHub! I'm an Electronics and Computer Science student passionate about building real-world tech solutions using AI, IoT, and software development. I love working on impactful projects — from smart devices to productivity tools and full-stack apps.
